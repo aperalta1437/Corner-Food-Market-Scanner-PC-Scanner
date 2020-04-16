@@ -1,0 +1,19 @@
+E:\Documents\PSU\IST110\Group Project\Corner Food Market\bin\Debug\Corner Food Market.exe.config
+E:\Documents\PSU\IST110\Group Project\Corner Food Market\bin\Debug\Corner Food Market.exe
+E:\Documents\PSU\IST110\Group Project\Corner Food Market\bin\Debug\Corner Food Market.pdb
+E:\Documents\PSU\IST110\Group Project\Corner Food Market\bin\Debug\Corner Food Market.xml
+E:\Documents\PSU\IST110\Group Project\Corner Food Market\obj\Debug\Corner Food Market.vbprojAssemblyReference.cache
+E:\Documents\PSU\IST110\Group Project\Corner Food Market\obj\Debug\Corner_Food_Market.Resources.resources
+E:\Documents\PSU\IST110\Group Project\Corner Food Market\obj\Debug\Corner Food Market.vbproj.GenerateResource.cache
+E:\Documents\PSU\IST110\Group Project\Corner Food Market\obj\Debug\Corner Food Market.exe
+E:\Documents\PSU\IST110\Group Project\Corner Food Market\obj\Debug\Corner Food Market.xml
+E:\Documents\PSU\IST110\Group Project\Corner Food Market\obj\Debug\Corner Food Market.pdb
+E:\Documents\PSU\IST110\Group Project\Corner Food Market\obj\Debug\Corner_Food_Market.LoginForm.resources
+E:\Documents\PSU\IST110\Group Project\Corner Food Market\obj\Debug\Corner_Food_Market.MainForm.resources
+E:\Documents\PSU\IST110\Group Project\Corner Food Market\obj\Debug\Corner_Food_Market.ManageDB.resources
+E:\Documents\PSU\IST110\Group Project\Corner Food Market\obj\Debug\Corner_Food_Market.Employee.resources
+E:\Documents\PSU\IST110\Group Project\Corner Food Market\obj\Debug\Corner_Food_Market.StorePurchase.resources
+E:\Documents\PSU\IST110\Group Project\Corner Food Market\obj\Debug\Corner_Food_Market.StorePurchRequest.resources
+E:\Documents\PSU\IST110\Group Project\Corner Food Market\obj\Debug\Corner_Food_Market.Vendor.resources
+E:\Documents\PSU\IST110\Group Project\Corner Food Market\obj\Debug\Corner_Food_Market.Item.resources
+E:\Documents\PSU\IST110\Group Project\Corner Food Market\obj\Debug\Corner_Food_Market.StartSales.resources
